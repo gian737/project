@@ -3,5 +3,5 @@
 
 void test(int n)
 {
-    std::cout << "test: " << n << std::endl;
+    std::cout << "test: 1 " << n << std::endl;
 }
